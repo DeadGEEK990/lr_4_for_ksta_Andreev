@@ -1,5 +1,9 @@
 #include "redactor.h"
 
+/**
+    @file redactor.cpp
+*/
+
 
 string StrInput() {
 	string temp;
@@ -59,7 +63,6 @@ string Corrector(string In, string badwords) {
 			cout << "Введите слово на которое хотите заменить:";
 			string temp;
 			cin >> temp;
-			//string temp1 = StrInput();
 			while (in.find(badwords) != string::npos) {
 				int pos = in.find(badwords);
 				int leng = badwords.size();
