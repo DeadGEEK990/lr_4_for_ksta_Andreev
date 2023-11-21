@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1700579119 source:/home/kaleganov/Desktop/haha/lab4/main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<vector>
+	<fstream>
+
+1700579277 source:/home/kaleganov/project/lab4/main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<vector>
+	<fstream>
+
