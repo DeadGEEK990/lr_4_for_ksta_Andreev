@@ -13,3 +13,12 @@
 	<vector>
 	<fstream>
 
+1700589274 source:/home/kaleganov/new projects/lab4/redactor.cpp
+	"redactor.h"
+
+1700589274 /home/kaleganov/new projects/lab4/redactor.h
+	<iostream>
+	<cmath>
+	<string>
+	<vector>
+
