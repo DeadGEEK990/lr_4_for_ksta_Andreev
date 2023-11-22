@@ -16,13 +16,13 @@
 1700598706 source:/home/kaleganov/new projects/lab4/redactor.cpp
 	"redactor.h"
 
-1700599096 /home/kaleganov/new projects/lab4/redactor.h
+1700599305 /home/kaleganov/new projects/lab4/redactor.h
 	<iostream>
 	<cmath>
 	<string>
 	<vector>
 
-1700597718 source:/home/kaleganov/new projects/lab4/main.cpp
+1700599305 source:/home/kaleganov/new projects/lab4/main.cpp
 	<iostream>
 	<string>
 	<fstream>
